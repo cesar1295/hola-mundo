@@ -12,5 +12,5 @@ Una vez que hayas bifurcado un repositorio, éste existirá solo en GitHub. Para
 
 ## Utiliza `git add .` `git commit` y `git push` para hacer y subir cambios a Github
 
-Después de clonar el repositorio bifurcado a tu computadora, puedes hacer cambios. Éstos cambios, sin embargo, solo existiran localmente en tu computadora hasta que los subas a Github. Para subir tus cambios a GithHub utiliza los comandos `git add .` `git commit -m "un mensaje corto descriptivo de los cambios"` y `git push`
+Después de clonar el repositorio bifurcado a tu computadora, puedes hacer cambios (como por ejemplo, completar los ejercicios). Éstos cambios, sin embargo, solo existiran localmente en tu computadora hasta que los subas a Github. Para subir tus cambios a GithHub utiliza los comandos `git add .` `git commit -m "un mensaje corto descriptivo de los cambios"` y `git push`
 
